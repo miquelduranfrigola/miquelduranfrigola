@@ -1,4 +1,4 @@
-### Miquel Duran Frigola
+# Miquel Duran Frigola
 
 I am a lead scientist and co-founder at the [Ersilia Open Source Initiative](https://ersilia.io).
 
