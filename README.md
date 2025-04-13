@@ -9,4 +9,3 @@ To see my **GitHub contributions**, please visit:
 **Learn more** about me at:
 - [LinkTree](https://linktr.ee/mduranfrigola)
 - [LinkedIn](https://www.linkedin.com/in/miquel-duran-frigola-06b00347/)
-- [Twitter/X](https://twitter.com/mduranfrigola)
